@@ -1,0 +1,16 @@
+gif/
+gif2/
+Text/
+venv/
+wave/mus/
+Всякое/
+*.mp4
+*.mp3
+*.wave
+*.png
+*.jpeg
+*.jpg
+lsb_png/Photo/
+lsb_png/Rio
+.idea/
+idea/
